@@ -6,7 +6,7 @@ This untitled quadcopter is designed to reuse the same components from the [beta
 Features
 --------
 
-* Light. Entire frame weighs in at 250g.
+* Light. Entire frame weighs in at 250g. With all electronics, motors and batteries it comes in at 718g.
 * Room for qbrain ESC and battery from betamax kit within the frame.
 * Battery has more protection in the centre of the frame.
 * Can be configured to fly in either the X or + layout.
@@ -14,8 +14,6 @@ Features
 Possible Improvements
 ---------------------
 
-* Motor mounts: Screw hole patterns are a little close to the frame.
-* Motor mounts: Some stronger attachment of the motor mount and the frame would be nice.
 * Perhaps an all 1/4" variant, stronger top and bottom plates might make for a stronger frame, might be overkill.
 * Flight controller cage? 
 * It needs a name.
