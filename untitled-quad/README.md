@@ -1,7 +1,7 @@
 Untitled Quadcopter Build
 =========================
 
-This untitled quadcopter is designed to reuse the same components from the [betamax quad](http://vancouver.hackspace.ca/doku.php?id=hacks:betamax10quad). The main goal for this design is to be as sturdy as possible for a stable flying platform.
+This untitled quadcopter is designed to reuse the same components from the [betamax quad](http://vanhack.ca/doku.php?id=hacks:betamax10quad). The main goal for this design is to be as sturdy as possible for a stable flying platform.
 
 Features
 --------
